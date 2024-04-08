@@ -1,0 +1,14 @@
+.backcolor,.textcolor
+{
+    background-color: #0A1CCA;
+}
+
+
+.nav-link:hover{
+    color:aqua;
+    border-bottom: 1px solid white;
+}
+.btn:hover
+{
+    color: #0A1CCA !important;
+}
